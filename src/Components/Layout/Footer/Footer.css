@@ -1,0 +1,23 @@
+.footer-nav {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15rem;
+    padding-bottom: 4rem;
+    z-index: 0;
+}
+
+.div-footer{
+    cursor: pointer;
+}
+
+.p-footer {
+    margin: 0;
+}
+
+.img-footer {
+    width: 4rem;
+    height: 3rem;
+}

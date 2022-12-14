@@ -1,0 +1,92 @@
+.verticalLigne {
+    background-color: #baff29;
+    width: 7px;
+    height: 300px;
+    position: absolute;
+    top: 8rem;
+    right: 15rem;
+    border-radius: 15px;
+}
+
+.quoteDiv {
+    background-color: #baff29;
+    position: absolute;
+    right: 7rem;
+    top: 26rem;
+    border-radius: 10px;
+    padding: 15px;
+    z-index: 10;
+    margin-bottom: 1rem;
+}
+
+.pQuote {
+    color: #0033ff;
+    font-weight: bold;
+    width: 80%;
+}
+
+.labels {
+    color: #0033ff;
+    font-weight: bold;
+    padding-right: 10px;
+    width: 33%;
+}
+
+.quoteImg {
+    width: 50px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+.quoteInput {
+    border-color: #0033ff;
+    border-radius: 10px;
+    background-image: url('C:\Users\ProUser\Desktop\innablink\public\Assests\arrowbottom.png');
+    position: left;
+    padding-left: 30px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    margin-bottom: 24px;
+    cursor: pointer;
+}
+
+.inputs {
+    border-color: #0033ff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.quoteButton {
+    position: relative;
+    background-color: #0033ff;
+    border-radius: 50%;
+    border: none;
+    padding: 10px;
+    color: #baff29;
+    left: 33rem;
+}
+
+.thanks {
+    bottom: 18rem;
+    width: 415px;
+    top: 0rem;
+    right: -0.5rem;
+
+}
+
+.quoteSelect {
+    border-color: #0033ff;
+    border-radius: 10px;
+    background-image: url('C:\Users\ProUser\Desktop\innablink\public\Assests\arrowbottom.png');
+    background-color: white;
+    position: left;
+    padding-left: 18px;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    margin-bottom: 24px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 17rem;
+    height: 2rem;
+}

@@ -1,0 +1,36 @@
+.backDrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+}
+
+.verticalligne {
+    background-color: #baff29;
+    width: 7px;
+    height: 46px;
+    position: relative;
+    left: 68%;
+    top: 1rem;
+    border-radius: 15px;
+}
+
+.container {
+    padding: 15px 10px !important;
+}
+
+.imgCounter {
+    width: 50px;
+    height: 33px;
+    float: left;
+}
+
+.pCards {
+    font-size: larger;
+}
+
+.whoCard {
+    height: 15.5rem !important;
+}

@@ -1,0 +1,40 @@
+.verticalLigne {
+    background-color: #baff29;
+    width: 5px;
+    height: 40px;
+    position: absolute;
+    left: 56%;
+    bottom: 0rem;
+    border-radius: 15px;
+}
+
+.rotateLigne {
+    background-color: #baff29;
+    width: 5px;
+    height: 45px;
+    transform: rotate(45deg);
+    border-radius: 15px;
+    position: absolute;
+    left: 60%;
+    bottom: -1rem;
+}
+
+.pSocial{
+    margin-bottom: 0 !important;
+    color: white;
+    text-align: center;
+}
+
+.insta{
+    position: absolute;
+    left: 53%;
+    bottom: 3rem;
+    text-decoration: none;
+}
+
+.fcb{
+    position: absolute;
+    left:60%;
+    bottom: 1.5rem;
+    text-decoration: none;
+}

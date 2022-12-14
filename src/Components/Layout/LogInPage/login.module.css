@@ -1,0 +1,79 @@
+.bigDIv {
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.Logo {
+    width: 170px;
+    height: 100px;
+}
+
+.Ligne {
+    border-bottom: 2px solid #0033ff;
+    position: fixed;
+    width: 100%;
+}
+
+.Ligne:after {
+    content: '';
+    display: block;
+    border-bottom: 2px solid #baff29;
+    margin-bottom: -2px;
+    max-width: 200px;
+}
+
+.first {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 14.6%;
+    height: 100%;
+    background-color: #0033ff;
+}
+
+.LogDiv {
+    background-color: white;
+}
+
+.userLogin {
+    position: relative;
+    left: 40rem;
+    top: 5rem;
+    text-align: center;
+    width: 200%;
+}
+
+.plogin {
+    font-weight: bold;
+    width: 70%;
+}
+
+.inputs {
+    border-color: #0033ff;
+    width: 20rem;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.buttonLogin{
+    border-radius: 15px;
+    color: white;
+    padding: 5px 20px;
+    background-color: #0033ff;
+    border: none;
+}
+
+input[type="checkbox"]{
+    border-color: #0033ff;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.pLogin{
+    color: #0033ff;
+}

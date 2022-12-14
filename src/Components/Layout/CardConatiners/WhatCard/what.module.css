@@ -1,0 +1,41 @@
+.backDrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+}
+
+.verticalligne {
+    background-color: #baff29;
+    width: 7px;
+    height: 46px;
+    position: relative;
+    left: 32%;
+    top: 1rem;
+    border-radius: 15px;
+}
+
+.container {
+    padding: 15px 10px !important;
+}
+
+.imgCounter {
+    width: 50px;
+    height: 33px;
+    float: left;
+}
+
+.pCards {
+    font-size: larger;
+}
+
+.whatCard {
+    height: 15.5rem !important;
+}
+
+/* - material ui select(menuItem) onCLose onOpen onChange={handlechhange}
+   - onOpen true or false
+   - ONchange when i click open
+   - i use state to be true when i open the first select*/

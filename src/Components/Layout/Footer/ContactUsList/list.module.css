@@ -1,0 +1,63 @@
+.horizontalLigne {
+    width: 50px;
+    border-radius: 15px;
+    background-color: #baff29;
+    height: 5px;
+    position: absolute;
+    left: 37%;
+    bottom: -3.5rem;
+}
+
+.messageus{
+    position: absolute;
+    left: 30%;
+    bottom: -6rem;
+    text-decoration: none;
+}
+
+.rotateLigne {
+    background-color: #baff29;
+    width: 5px;
+    height: 45px;
+    transform: rotate(-45deg);
+    border-radius: 15px;
+    position: absolute;
+    left: 39%;
+    bottom: -1rem;
+}
+
+.callus{
+    position: absolute;
+    bottom: 0rem;
+    left: 32%;
+    text-decoration: none;
+}
+
+
+.verticalLigne {
+    background-color: #baff29;
+    width: 5px;
+    height: 40px;
+    position: absolute;
+    left: 44%;
+    bottom: 0rem;
+    border-radius: 15px;
+}
+
+.emailus{
+    position: absolute;
+    bottom: 2.5rem;
+    left: 40.5%;
+    text-decoration: none;
+}
+
+.imgcontact {
+    width: 90px;
+    height: 80px;
+}
+
+.pContact{
+    margin-bottom: 0 !important;
+    color: #baff29;
+    text-align: center;
+}

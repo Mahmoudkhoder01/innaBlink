@@ -1,0 +1,62 @@
+.horizontalLigne {
+    width: 210px;
+    border-radius: 15px;
+    background-color: #baff29;
+    height: 5px;
+    position: absolute;
+    left: 47%;
+    bottom: 8rem;
+}
+
+
+.emailDiv{
+    background-color: #baff29;
+    width: 400px;
+    height: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    left: 60%;
+    bottom: -5rem;
+}
+
+.Labels{
+    color: #0033ff;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.LabelHelp{
+    color: #0033ff;
+    padding-right: 10px;
+    font-weight: bold;
+    width: 34%;
+}
+
+.twiceInput{
+    border-color: #0033ff;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.space{
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.helpInput{
+    border-color: #0033ff;
+    border-radius: 10px;
+    height: 170px;
+}
+
+.sendButton{
+    border-radius: 50%;
+    margin-left: 95%;
+    background-color: #0033ff;
+    color: #baff29;
+    padding: 10px;
+    border: none;
+    position: relative;
+    bottom: 2rem;
+}

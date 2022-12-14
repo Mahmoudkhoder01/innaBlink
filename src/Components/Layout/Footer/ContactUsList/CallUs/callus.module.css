@@ -1,0 +1,22 @@
+.calldiv {
+    background-color: #baff29;
+    border-radius: 10px;
+    padding: 10px 5px;
+    height: 3rem;
+    width: 9.5rem;
+    color: #0033ff;
+    font-weight: bold;
+    position: absolute;
+    left: 17%;
+    bottom: 1rem;
+}
+
+.horizontalLigne {
+    width: 50px;
+    border-radius: 15px;
+    background-color: #baff29;
+    height: 5px;
+    position: absolute;
+    left: 28%;
+    bottom: 2.5rem;
+}

@@ -1,0 +1,17 @@
+.thanksDiv{
+    background-color: #baff29;
+    width: 400px;
+    height: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0rem;
+    color: #0033ff;
+    font-weight: bold;
+}
+
+.text{
+    width: 50%;
+    text-align: center;
+    margin-top: 18%;
+}

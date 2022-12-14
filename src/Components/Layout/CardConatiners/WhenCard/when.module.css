@@ -1,0 +1,26 @@
+.verticalligne {
+    background-color: #baff29;
+    width: 7px;
+    height: 46px;
+    position: relative;
+    left: 41%;
+    top: 1rem;
+    border-radius: 15px;
+}
+.whenCard{
+    height: 15rem;
+}
+
+.container{
+    padding: 15px 10px ;
+}
+
+.imgCounter {
+    width: 50px;
+    height: 33px;
+    float: left;
+}
+
+.pCards {
+    font-size: larger;
+}
